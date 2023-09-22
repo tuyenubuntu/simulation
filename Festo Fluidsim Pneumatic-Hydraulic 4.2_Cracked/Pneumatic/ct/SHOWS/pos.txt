@@ -1,0 +1,27 @@
+DESCR Didactics Material
+-10000 -10000 3872 1968 0.500000
+1 1 ..
+2 1 dida_002.ct
+3 1 dida_006.ct
+4 1 dida_056.ct
+5 1 dida_061.ct
+6 1 dida_062.ct
+7 1 dida_065.ct
+8 1 dida_068.ct
+9 1 dida_072.ct
+10 1 dida_077.ct
+11 1 dida_079.ct
+12 1 dida_081.ct
+13 1 dida_085.ct
+14 1 dida_088.ct
+15 1 dida_091.ct
+16 1 dida_096.ct
+17 1 dida_100.ct
+18 1 dida_103.ct
+19 1 dida_106.ct
+20 1 dida_109.ct
+21 1 dida_112.ct
+22 1 dida_114.ct
+23 1 dida_115.ct
+24 1 dida_119.ct
+25 1 dida_120.ct

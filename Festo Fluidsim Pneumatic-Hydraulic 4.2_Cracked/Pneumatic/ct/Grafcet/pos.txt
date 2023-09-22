@@ -1,0 +1,31 @@
+DESCR GRAFCET
+523 481 1180 1230 0.500000
+1 1 ..
+2 1 grafcet-norm-p31.ct
+3 1 grafcet-norm-p32.ct
+4 1 grafcet-norm-p33a.ct
+5 1 grafcet-norm-p33b.ct
+6 1 Grafcet01.ct
+7 1 Grafcet02.ct
+8 1 Grafcet03.ct
+1 2 Grafcet04.ct
+2 2 Grafcet05.ct
+3 2 Grafcet06.ct
+4 2 Grafcet07.ct
+5 2 Grafcet08.ct
+6 2 Grafcet09.ct
+7 2 Grafcet10.ct
+8 2 Grafcet11.ct
+1 3 Grafcet12.ct
+2 3 Grafcet13.ct
+3 3 Grafcet14.ct
+4 3 Grafcet15.ct
+5 3 Grafcet16.ct
+6 3 Grafcet17.ct
+7 3 Grafcet18.ct
+8 3 TP201_09.ct
+1 4 TP201_09gc.ct
+2 4 TP201_09gc2.ct
+3 4 TP201_09gc3.ct
+4 4 TP201_09gc_EP.ct
+5 4 TP201_09l.ct

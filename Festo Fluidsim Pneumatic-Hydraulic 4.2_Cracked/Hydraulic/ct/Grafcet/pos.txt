@@ -1,0 +1,24 @@
+DESCR GRAFCET
+-10000 -10000 3872 1968 0.500000
+1 1 ..
+2 1 grafcet-norm-p31.ct
+3 1 grafcet-norm-p32.ct
+4 1 grafcet-norm-p33a.ct
+5 1 grafcet-norm-p33b.ct
+6 1 Grafcet01.ct
+7 1 Grafcet02.ct
+8 1 Grafcet03.ct
+9 1 Grafcet04.ct
+10 1 Grafcet05.ct
+11 1 Grafcet06.ct
+12 1 Grafcet07.ct
+13 1 Grafcet08.ct
+14 1 Grafcet09.ct
+15 1 Grafcet10.ct
+16 1 Grafcet11.ct
+17 1 Grafcet12.ct
+18 1 Grafcet13.ct
+19 1 Grafcet14.ct
+20 1 Grafcet15.ct
+21 1 Grafcet16.ct
+22 1 Grafcet17.ct
